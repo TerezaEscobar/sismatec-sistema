@@ -3,7 +3,7 @@
 Sistema web desarrollado bajo arquitectura de 3 capas para la gestión de ventas, inventario y servicio técnico.
 
 ## 👥 Equipo de Desarrollo
-*   **Yesenia Escobar** (Líder / Frontend) - Rama: `feature/frontend`
+*   **Yesenia Escobar** (Bd - Frontend) - Rama: `feature/frontend`
 *   **Alan Alarcón** (Backend - Auth y BD) - Rama: `feature/backend-auth`
 *   **Mauricio Cuadros** (Backend - Ventas) - Rama: `feature/backend-ventas`
 *   **Josué Tarqui** (Backend - Servicios) - Rama: `feature/backend-servicios`
